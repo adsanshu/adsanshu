@@ -40,6 +40,7 @@ I enjoy exploring **Mechanical Engineering, Programming, Web Development, AI con
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit%20(C%20Programming)-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
 ### ⚙️ Mechanical Engineering
 
